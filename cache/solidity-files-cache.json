@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Loh Wei Chern\\dappCrowdfunding\\src\\contracts\\SmartBacker.sol": {
+      "lastModificationDate": 1699492435182,
+      "contentHash": "7d4c9d68e8227766a6351cb1322e8a7f",
+      "sourceName": "src/contracts/SmartBacker.sol",
+      "solcConfig": {
+        "version": "0.8.11",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "SmartBacker"
+      ]
+    }
+  }
+}
